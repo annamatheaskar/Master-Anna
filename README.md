@@ -1,2 +1,2 @@
 # Master-Anna
-Anna sine Master-filer til hjelp for Kjartan
+Anna sine Master-filer
